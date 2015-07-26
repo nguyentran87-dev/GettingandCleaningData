@@ -1,9 +1,9 @@
 # Code Book
 
-## variables
+## Variables
 
-### subject
-    Number from 1 to 30 to indicate 30 people
+### Subject
+Number from 1 to 30 to indicate 30 people
 ### activity 
 1.  WALKING
 2.  WALKING_UPSTAIRS
@@ -12,7 +12,7 @@
 5.  STANDING
 6.  LAYING
 
-### measurement features (66 features related to mean and standard deviation) 
+### Measurement features (66 features related to mean and standard deviation) 
 "tBodyAcc-mean()-X"           "tBodyAcc-mean()-Y"          
 "tBodyAcc-mean()-Z"           "tBodyAcc-std()-X"            "tBodyAcc-std()-Y"            "tBodyAcc-std()-Z"           
 "tGravityAcc-mean()-X"        "tGravityAcc-mean()-Y"        "tGravityAcc-mean()-Z"        "tGravityAcc-std()-X"        
